@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8A2BE2&center=true&width=600&lines=Welcome+to+My+GitHub+|+Aliaa+Mohamed" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=A020F0&center=true&width=600&lines=Welcome+to+My+GitHub+|+Aliaa+Mohamed" alt="Typing SVG">
 </p>
+
 
 ## 💫 About Me
 
@@ -39,12 +40,4 @@ I believe in **precision, creativity, and consistency** — and I love turning i
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white">
-</p>
-
----
-
-### ✍️ Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote">
 </p>
