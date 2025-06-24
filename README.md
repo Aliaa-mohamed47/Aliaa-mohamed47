@@ -20,7 +20,6 @@ I believe in **precision, creativity, and consistency** — and I love turning i
 
 <p align="center">
   <a href="https://linkedin.com/in/aliaa-mohamed"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Aliaa-mohamed47"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:aliaamohamed472005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
