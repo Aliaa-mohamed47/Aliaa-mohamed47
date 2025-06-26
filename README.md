@@ -12,6 +12,7 @@
 - A **Alumni Manegment System** 🍽️
 - A **portfolio site** 
 - A **Furniture Website**
+
 I believe in **precision, creativity, and consistency** — and I love turning ideas into real interfaces! 💡
 
 ---
