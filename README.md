@@ -42,8 +42,3 @@
 </p>
 
 
-## 📊 My GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aliaa-mohamed47&theme=tokyonight)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aliaa-mohamed47&theme=tokyonight)
-
