@@ -40,3 +40,10 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white">
 </p>
+
+
+## 📊 My GitHub Stats
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aliaa-mohamed47&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aliaa-mohamed47&theme=tokyonight)
+
