@@ -7,9 +7,9 @@
 #### I am a **Computer Science & AI student at Helwan University**, with strong knowledge in **data structures, algorithms, and OOP**.  
 #### I'm passionate about **front-end development**, and have also explored **back-end using PHP**.  
 #### I’ve worked on various **projects**, including:  
-- A **hospital website** 🏥  
-- A **restaurant website** 🍽️  
-- A **Alumni Manegment System** 🍽️
+- A **hospital website**  
+- A **restaurant website** 
+- A **Alumni Manegment System** 
 - A **portfolio site** 
 - A **Furniture Website**
 
