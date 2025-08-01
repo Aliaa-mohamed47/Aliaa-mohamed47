@@ -1,19 +1,23 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=800080&center=true&width=600&lines=Welcome+to+My+GitHub+|+Aliaa+Mohamed" alt="Typing SVG">
+  <img src="https://your-banner-link.png" alt="Aliaa Mohamed Banner" />
 </p>
 
 ## 💫 About Me
 
-#### I am a **Computer Science & AI student at Helwan University**, with strong knowledge in **data structures, algorithms, and OOP**.  
-#### I'm passionate about **front-end development**, and have also explored **back-end using PHP**.  
-#### I’ve worked on various **projects**, including:  
-- A **hospital website**  
-- A **restaurant website** 
-- A **Alumni Manegment System** 
-- A **portfolio site** 
-- A **Furniture Website**
+#### 🎓 I am a **Computer Science & AI student at Helwan University**, with a strong foundation in **data structures, algorithms, and OOP**.
+#### 💻 I’m passionate about **front-end development**, and I've also explored **back-end using PHP**.
+#### ✨ My vision: *"Building user-friendly, accessible, and creative web applications that make a real difference."*
 
- I believe in **precision, creativity, and consistency** — and I love turning ideas into real interfaces! 💡
+---
+
+## 🚀 Projects
+
+- 🌐 [**Hospital Website**](https://github.com/Aliaa-mohamed47/hospital)  
+- 🍽️ [**Restaurant Website**](https://github.com/Aliaa-mohamed47/restaurant)  
+- 🎓 [**Alumni Management System**](https://github.com/Aliaa-mohamed47/Alumni-System)  
+- 🖼️ [**Portfolio**](https://aliaa-mohamed47.github.io/portfolio/)  
+- 🛋️ [**Furniture Website**](https://github.com/Aliaa-mohamed47/Furniture)  
+- 🛒 [**E-commerce Front-End**](https://github.com/Aliaa-mohamed47/E-commerce)
 
 ---
 
@@ -36,9 +40,16 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white">
 </p>
 
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aliaa-mohamed47&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aliaa-mohamed47&theme=radical" />
+</p>
