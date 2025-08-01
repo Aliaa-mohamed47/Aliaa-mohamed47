@@ -1,6 +1,7 @@
 <p align="center">
-  <strong>Welcome to My GitHub | Aliaa Mohamed</strong>
+  <strong style="color:#800080; font-size:22px;">Welcome to My GitHub | Aliaa Mohamed</strong>
 </p>
+
 
 ## 💫 About Me
 
