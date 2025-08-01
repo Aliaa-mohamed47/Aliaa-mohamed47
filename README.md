@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Aliaa%20Mohamed-%23800080.svg?style=for-the-badge&logoColor=white" alt="Aliaa Mohamed" />
+  <strong>Welcome to My GitHub | Aliaa Mohamed</strong>
 </p>
 
 ## 💫 About Me
